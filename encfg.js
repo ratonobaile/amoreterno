@@ -1,0 +1,1 @@
+window.ENCFG={"orc": {"fw": 22, "fh": 26, "n": 4}, "bat": {"fw": 15, "fh": 16, "n": 3}, "mage": {"fw": 20, "fh": 26, "n": 4}, "slime": {"fw": 14, "fh": 10, "n": 2}, "wolf": {"fw": 24, "fh": 14, "n": 2}, "archer": {"fw": 20, "fh": 26, "n": 4}};
